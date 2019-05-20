@@ -1,2 +1,4 @@
 # hello-world
-Hello World
+Hello Earthlings!
+
+I have offically made my first commit to README.md.
